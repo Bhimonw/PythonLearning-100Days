@@ -72,9 +72,3 @@ Inspired by the #100DaysOfCode challenge, the broader developer community, and c
 ---
 
 *Let the learning begin!*
-
-*(Optional: Add a link to your social media or blog if you plan to share updates there)*
-
----
-
-This project is licensed under the MIT License - see the `LICENSE` file for details. (You'll need to create a `LICENSE` file separately if you choose to include one).
