@@ -67,7 +67,7 @@ While this is primarily a personal learning project, I'm open to suggestions, fe
 
 ## 🙏 Acknowledgements
 
-Inspired by the #100DaysOfCode challenge, the wider developer community, and courses like "100 Days of Code: The Complete Python Pro Bootcamp".
+Inspired by the #100DaysOfCode challenge, the broader developer community, and courses like Angela Yu's "100 Days of Code: The Complete Python Pro Bootcamp" (Udemy).
 
 ---
 
