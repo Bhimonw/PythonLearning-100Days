@@ -63,7 +63,7 @@ If you'd like to follow along or run some of the code:
    ```bash
    git clone https://github.com/Bhimonw/PythonLearning-100Days.git
    cd PythonLearning-100Days
-````
+    ````
 
 2. **Navigate to a day's folder:**
 
